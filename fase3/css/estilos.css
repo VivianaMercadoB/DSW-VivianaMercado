@@ -1,0 +1,16 @@
+heade{
+    background-color: rgb(43, 70, 226);
+}
+nav{
+    background-color: darkorchid;
+}
+article{
+    background-color: aquamarine;
+}
+aside{
+    background-color: chartreuse;
+}
+footer{
+    background-color: red;
+    color: lightcoral;
+}

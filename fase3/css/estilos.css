@@ -1,16 +1,27 @@
 heade{
-    background-color: rgb(43, 70, 226);
+    background-color: blue;
+    padding: 30px;
 }
 nav{
     background-color: darkorchid;
+    padding: 20px;
+}
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 article{
     background-color: aquamarine;
+    padding: 50px;
+    grid-column: 1/4;
 }
 aside{
     background-color: chartreuse;
+    padding: 10px;
+    grid-column: 4/5;
 }
 footer{
     background-color: red;
-    color: lightcoral;
+    color: aquamarine;
+    padding: 20px;
 }
